@@ -1,5 +1,6 @@
 Here's the live site: https://movie-website-hw18kbqym-bono-netsiandas-projects.vercel.app/
 
+
 A sleek, responsive web application designed to showcase detailed information about movies. Built using HTML, CSS, and JavaScript, it combines elegant design with intuitive navigation to create the perfect destination for film lovers who want to explore, not stream.
 
 **✨ Features**
