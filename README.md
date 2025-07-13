@@ -13,7 +13,7 @@ Poster Display: High-quality thumbnails of movie posters
 
 Dynamic Categories: Browse by genre, year, or popularity
 
-##🌙 UI Design**
+**🌙 UI Design**
 Dark & Light Theme: Choose your vibe with a one-click toggle
 
 Responsive Layout: Works smoothly on desktop, tablet, and mobile
@@ -30,7 +30,7 @@ Favorites List: Bookmark movies to return to later (in local storage)
 Meta Info Tooltips: Hover over cast, director, or genre for quick references
 
 **🚀 Getting Started**
-###Prerequisites
+Prerequisites
 A modern browser (Chrome, Firefox, Safari, Edge)
 
 No external libraries required
